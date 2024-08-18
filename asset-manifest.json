@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Garima9876/text-utils.git/static/css/main.2890232c.css",
-    "main.js": "/Garima9876/text-utils.git/static/js/main.ad358bd1.js",
-    "index.html": "/Garima9876/text-utils.git/index.html",
-    "main.2890232c.css.map": "/Garima9876/text-utils.git/static/css/main.2890232c.css.map",
-    "main.ad358bd1.js.map": "/Garima9876/text-utils.git/static/js/main.ad358bd1.js.map"
+    "main.css": "/text-utils/static/css/main.2890232c.css",
+    "main.js": "/text-utils/static/js/main.ad358bd1.js",
+    "index.html": "/text-utils/index.html",
+    "main.2890232c.css.map": "/text-utils/static/css/main.2890232c.css.map",
+    "main.ad358bd1.js.map": "/text-utils/static/js/main.ad358bd1.js.map"
   },
   "entrypoints": [
     "static/css/main.2890232c.css",
