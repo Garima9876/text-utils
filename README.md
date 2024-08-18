@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployment
 
-You can view the deployed app at [https://garima9876.github.io/num-tracker/](https://garima9876.github.io/text-utils/).
+You can view the deployed app at [https://garima9876.github.io/text-utils/](https://garima9876.github.io/text-utils/).
 
 ## Available Scripts
 
