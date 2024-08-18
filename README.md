@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment
+
+You can view the deployed app at [https://garima9876.github.io/num-tracker/](https://garima9876.github.io/text-utils/).
+
 ## Available Scripts
 
 In the project directory, you can run:
