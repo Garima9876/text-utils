@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Garima9876/text-utils.git/static/css/main.2890232c.css",
+    "main.js": "/Garima9876/text-utils.git/static/js/main.186cae5b.js",
+    "index.html": "/Garima9876/text-utils.git/index.html",
+    "main.2890232c.css.map": "/Garima9876/text-utils.git/static/css/main.2890232c.css.map",
+    "main.186cae5b.js.map": "/Garima9876/text-utils.git/static/js/main.186cae5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2890232c.css",
+    "static/js/main.186cae5b.js"
+  ]
+}
